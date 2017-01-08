@@ -1,0 +1,1 @@
+INSERT INTO jobs VALUES(10000, 10000, 10000, 'job 1', 1, 'queued', '', 1);
